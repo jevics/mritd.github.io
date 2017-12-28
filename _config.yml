@@ -6,12 +6,12 @@ author: 漠然
 subtitle: "Nothing is impossible to a willing heart!"
 description: "十字路口,繁华街头......"
 keywords: 漠然
-url: "https://mritd.me"
+url: "http://jevics.github.io"
 date_format: "ordinal"
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
-source_code: https://github.com/mritd/mritd.github.io
+source_code: https://github.com/jevics/jevics.github.io
 side_bar_repo_limit: 5
 
 # ---------------- #
@@ -100,7 +100,7 @@ twitter_username: mritd
 comments_provider: disqus
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
-disqus_username: mritd
+#disqus_username: mritd
 
 # ---------------- #
 #    Analytics     #
@@ -118,4 +118,4 @@ skill_mobile_app_keywords: [Java]
 # ---------------- #
 # Github metadata  #
 # ---------------- #
-repository: mritd/mritd.github.io
+repository: jevics/jevics.github.io
